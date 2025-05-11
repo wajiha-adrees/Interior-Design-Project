@@ -1,5 +1,6 @@
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import ChatButton from "@/components/ChatButton";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
@@ -17,6 +18,7 @@ export default function RootLayout({ children }) {
         <Header />
         {children}
         <Footer />
+        <ChatButton />
       </body>
     </html>
   );
