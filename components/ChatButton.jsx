@@ -9,7 +9,7 @@ const ChatButton = () => {
   const [messages, setMessages] = useState([
     {
       type: 'bot',
-      content: '👋 Hi Wajiha Adrees! I\'m your interior design assistant. How may I help you with your design project today?'
+      content: '👋 Hi Manahil Huzaifa! I\'m your interior design assistant. How may I help you with your design project today?'
     }
   ]);
   const [isLoading, setIsLoading] = useState(false);
@@ -59,7 +59,7 @@ const ChatButton = () => {
     setMessages([
       {
         type: 'bot',
-        content: '👋 Hi Wajiha Adrees! I\'m your interior design assistant. How may I help you with your design project today?'
+        content: '👋 Hi Manahil Huzaifa! I\'m your interior design assistant. How may I help you with your design project today?'
       }
     ]);
     setMessage('');

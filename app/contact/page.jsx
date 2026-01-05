@@ -3,7 +3,7 @@ export default function Contact() {
         <div>
             <h1>Contact Us</h1>
             <p>Phone: 123456789</p>
-            <p>Email: adreeswajiha5@gmail.com
+            <p>Email: manahiulhuzaifa@gmail.com
             </p>
         </div>
     );

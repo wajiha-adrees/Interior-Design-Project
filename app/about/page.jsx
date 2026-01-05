@@ -42,9 +42,9 @@ export default function About() {
                         <div className="border-2 border-gray-500 ">
                         <div className="-m-0.5 p-4 text-center transition hover:-translate-y-3 hover:-translate-x-3 aspect-square bg-zinc-100">
   <div className="w-36 h-36 mx-auto rounded-full overflow-hidden">
-    <img src="/image/WAJIHA4.jpeg" alt="" className="w-full h-full object-cover" />
+    {/* <img src="/image/WAJIHA4.jpeg" alt="" className="w-full h-full object-cover" /> */}
   </div>
-  <h2 className="py-4 text-2xl font-semibold">WAJIHA ADREES</h2>
+  <h2 className="py-4 text-2xl font-semibold">Manahil Huzaifa</h2>
   <p className="text-sm text-gray-400">
     Frontend JS student building interactive survey tools to explore ideas, gather insights, and enhance user experience.
   </p>
